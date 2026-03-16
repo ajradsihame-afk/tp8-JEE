@@ -1,0 +1,10 @@
+LES RESULTATS
+![Capture d'écran 2026-03-15 204931.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204931.png)
+![Capture d'écran 2026-03-15 204831.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204831.png)
+![Capture d'écran 2026-03-15 204639.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204639.png)
+![Capture d'écran 2026-03-15 204557.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204557.png)
+![Capture d'écran 2026-03-15 204459.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204459.png)
+![Capture d'écran 2026-03-15 204414.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204414.png)
+![Capture d'écran 2026-03-15 204241.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20204241.png)
+![Capture d'écran 2026-03-15 201632.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20201632.png)
+![Capture d'écran 2026-03-15 201611.png](screenshots/Capture%20d%27%C3%A9cran%202026-03-15%20201611.png)
